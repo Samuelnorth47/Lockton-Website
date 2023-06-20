@@ -7,9 +7,7 @@ body
 
 
 #serv {
-    display: flex;
-  justify-content: center;
-
+   
 }
 
 #page-header {
@@ -17,4 +15,9 @@ body
     width: 100%;
     position: sticky;
     border: 5px black groove;
+}
+
+ul {
+   left: 100px;
+   text-align: left;
 }
